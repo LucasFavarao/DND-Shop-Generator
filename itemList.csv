@@ -1,0 +1,100 @@
+item_name,price,item_weight,shop_vendor,rarity
+Abacus,2 gp,2 lb,general goods,Common
+Acid (vial),25 gp,1 lb,Apothecary,Uncommon
+Alchemist’s fire (flask),50 gp,1 lb,Magic Item shop,Uncommon
+Arrows (20),1 gp,1 lb,Blacksmith,Common
+Blowgun needles (50),1 gp,1 lb,Blacksmith,Common
+Crossbow bolts (20),1 gp,1.5 lb,Blacksmith,Common
+Sling bullets (20),4 cp,1.5 lb,Blacksmith,Common
+Antitoxin (vial),50 gp,0 lb,Apothecary,Uncommon
+Crystal,10 gp,1 lb,Magic Item shop,Common
+Orb,20 gp,3 lb,Magic Item shop,Uncommon
+Rod,10 gp,2 lb,Magic Item shop,Common
+Staff,5 gp,4 lb,Magic Item shop,Common
+Wand,10 gp,1 lb,Magic Item shop,Common
+Backpack,2 gp,5 lb,general goods,Common
+Ball bearings (bag of 1000) ,1 gp,2 lb,general goods,Common
+Barrel,2 gp,70 lb,general goods,Common
+Basket,4 sp,2 lb,general goods,Common
+Bedroll,1 gp,7 lb,general goods,Common
+Bell,1 gp,0 lb,general goods,Common
+Blanket,5 sp,3 lb,general goods,Common
+Block and tackle,1 gp,5 lb,general goods,Common
+Book,25 gp,5 lb,general goods,Common
+Glass bottle ,2 gp,2 lb,general goods,Common
+Bucket,5 cp,2 lb,general goods,Common
+Caltrops (bag of 20),1 gp,2 lb,general goods,Common
+Candle,1 cp,0 lb,general goods,Common
+Case, crossbow bolt,1 gp,1 lb,general goods,Common
+Case, map or scroll,1 gp,1 lb,general goods,Common
+Chain (10 feet),5 gp,10 lb,general goods,Common
+Chalk (1 piece),1 cp,0 lb,general goods,Common
+Chest,5 gp,25 lb,general goods,Common
+Climber’s kit,25 gp,12 lb,general goods,Uncommon
+Common clothes ,5 sp,3 lb,general goods,Common
+Costume,5 gp,4 lb,general goods,Common
+Fine clothes,15 gp,6 lb,general goods,Uncommon
+Traveler's clothes,2 gp,4 lb,general goods,Common
+Component pouch,25 gp,2 lb,Magic Item shop,Uncommon
+Crowbar,2 gp,5 lb,general goods,Common
+Sprig of mistletoe,1 gp,0 lb,Druidic focus,Common
+Totem,1 gp,0 lb,Druidic focus,Common
+Wooden staff,5 gp,4 lb,Druidic focus,Common
+Yew wand,10 gp,1 lb,Magic Item shop,Common
+Fishing tackle,1 gp,4 lb,general goods,Common
+Flask or tankard,2 cp,1 lb,general goods,Common
+Grappling hook,2 gp,4 lb,general goods,Common
+Hammer,1 gp,3 lb,Blacksmith,Common
+Hammer, sledge,2 gp,10 lb,Blacksmith,Common
+Healer’s kit,5 gp,3 lb,Apothecary,Common
+Amulet,5 gp,1 lb,Magic Item shop,Common
+Emblem,5 gp,0 lb,Magic Item shop,Common
+Reliquary,5 gp,2 lb,Magic Item shop,Common
+Holy water (flask),25 gp,1 lb,Magic Item shop,Uncommon
+Hourglass,25 gp,1 lb,Magic Item shop,Uncommon
+Hunting trap,5 gp,25 lb,general goods,Common
+Ink (1 ounce bottle),10 gp,0 lb,general goods,Common
+Ink pen,2 cp,0 lb,general goods,Common
+Jug or pitcher,2 cp,4 lb,general goods,Common
+Ladder (10-foot),1 sp,25 lb,general goods,Common
+Lamp,5 sp,1 lb,general goods,Common
+Lantern bullseye,10 gp,2 lb,general goods,Uncommon
+Lantern hooded,5 gp,2 lb,general goods,Common
+Lock,10 gp,1 lb,general goods,Uncommon
+Magnifying glass,100 gp,0 lb,general goods,Rare
+Manacles,2 gp,6 lb,general goods,Common
+Mess kit,2 sp,1 lb,general goods,Common
+Mirror, steel,5 gp,0.5 lb,general goods,Common
+Oil (flask),1 sp,1 lb,general goods,Common
+Paper (one sheet),2 sp,0 lb,general goods,Common
+Parchment (one sheet),1 sp,0 lb,general goods,Common
+Perfume (vial),5 gp,0 lb,general goods,Common
+Miner’s pick,2 gp,10 lb,general goods,Common
+Piton,5 cp,0.25 lb,general goods,Common
+Poison, basic (vial),100 gp,0 lb,Apothecary,Rare
+Pole (10-foot),5 cp,7 lb,general goods,Common
+iron pot,2 gp,10 lb,general goods,Common
+Potion of healing,50 gp,0.5 lb,Apothecary,Uncommon
+Pouch,5 sp,1 lb,general goods,Common
+Quiver,1 gp,1 lb,general goods,Common
+Portable ram,4 gp,35 lb,general goods,Common
+Rations (1 day),5 sp,2 lb,general goods,Common
+Robes,1 gp,4 lb,general goods,Common
+Hempen rope (50 feet),1 gp,10 lb,general goods,Common
+Silk rope (50 feet),10 gp,5 lb,general goods,Uncommon
+Sack,1 cp,0.5 lb,general goods,Common
+Merchant’s scale,5 gp,3 lb,general goods,Common
+Sealing wax,5 sp,0 lb,general goods,Common
+Shovel,2 gp,5 lb,general goods,Common
+Signal whistle,5 cp,0 lb,general goods,Common
+Signet ring,5 gp,0 lb,general goods,Common
+Soap,2 cp,0 lb,general goods,Common
+Spellbook,50 gp,3 lb,Magic Item shop,Uncommon
+Iron spikes (10),1 gp,5 lb,general goods,Common
+Spyglass,1,000 gp,1 lb,Magic Item shop,Very Rare
+Two-person tent,2 gp,20 lb,general goods,Common
+Tinderbox,5 sp,1 lb,general goods,Common
+Torch,1 cp,1 lb,general goods,Common
+Vial,1 gp,0 lb,general goods,Common
+Waterskin,2 sp,5 lb,general goods,Common
+Whetstone,1 cp,1 lb,general goods,Common

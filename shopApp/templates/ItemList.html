@@ -1,0 +1,13 @@
+<h1> Item List</h1>
+<p>Items count: {{ defaultItems|length }}</p>
+<ul>
+    {% for item in defaultItems%}
+    <li>
+        Name:{{item.item_name }}  Price: {{item.price}}
+    </li>
+    {% endfor %}
+
+    <form method="'post">
+        {%csrf}
+    </form>
+</ul>
